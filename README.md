@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.com/gut-space/aquarius.svg?branch=master)](https://travis-ci.com/gut-space/aquarius)
 
-<img align="right" width="128" height="128" src="https://github.com/gut-space/satnogs/blob/master/doc/logo.png">
+<img align="right" width="128" height="128" src="https://github.com/gut-space/aquarius/blob/master/doc/logo.png">
 
 The goal of this project is to build a fully functional automated VHF satellite ground station, loosely based on [satnogs](https://satnogs.org) project.
 
