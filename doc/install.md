@@ -135,7 +135,7 @@ You should use `visudo` command to add the following line:
 4. **Install Flask dependencies**
 
 ```
-cd satnogs/server
+cd aquarius/server
 python3 -m virtualenv venv
 source venv/bin/activate
 python setup.py install
